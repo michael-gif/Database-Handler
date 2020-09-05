@@ -59,4 +59,4 @@ public void setMode(String mode) {}
 ```
 The `bindToFile()` method changes what file the instance can talk to.  
 The `getBoundFile()` method returns what file the instance can talk to.  
-The `setMode()` method changes what mode the instance is in (see [Modes](###Modes) above).
+The `setMode()` method changes what mode the instance is in (see [Modes](#Modes) above).
