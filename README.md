@@ -7,7 +7,7 @@ This package is supposed to make managing resources a bit easier in java.
 ```java
 DatabaseHandler dh = new DatabaseHandler("database.txt","json");
 ```
-- The `filename` is the file that you want to use as a database. The `mode` is what you want the data to be stored as - see different [Modes](#Modes) below.
+- The `filename` is the file that you want to use as a database. The `mode` is what you want the data to be stored as (see different [Modes](#Modes) below).
 
 ### Modes
 - The different modes are as follows:
